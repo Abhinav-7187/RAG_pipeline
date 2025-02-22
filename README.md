@@ -1,4 +1,4 @@
-**📌 Retrieval-Augmented Generation (RAG) Pipeline**
+**<h2>📌 Retrieval-Augmented Generation (RAG) Pipeline</h2>**
 
 **🔍 Overview**
 This project explores two approaches to building a **Retrieval-Augmented Generation (RAG) system**:
